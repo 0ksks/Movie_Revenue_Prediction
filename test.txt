@@ -1,2 +1,0 @@
-ssh-keygen -t rsa -b 4096 -C "1625436933@qq.com"
-pbcopy < ~/.ssh/id_rsa/ba.pub
